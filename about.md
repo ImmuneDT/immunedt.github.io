@@ -10,7 +10,7 @@ The workshop Building Immune Digital Twins aims to make immune digital twin tech
 
 ### Contact us
 
-[immunedigitaltwin\@gmail.com](mailto:immunedigitaltwin@gmail.com)
+[immunedigitaltwin@gmail.com](mailto:immunedigitaltwin@gmail.com)
 
 ### Team
 
