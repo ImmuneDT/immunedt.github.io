@@ -4,17 +4,54 @@ title: About
 permalink: /about/
 ---
 
-Digital twins, customized simulation models pioneered in industry, are beginning to gain ground in medicine and healthcare, with some major successes in cardiovascular diagnostics and in insulin pump control. Personalized computational models are also assisting in applications ranging from drug development to patient-tailored treatment optimization. Advanced medical digital twins will be essential to making precision medicine a reality. Because the immune system plays an important role in such a wide range of diseases and health conditions, from fighting pathogens to autoimmune disorders, digital twins of the immune system (IDTs) will have especially high impact. However, their development presents major challenges, stemming from the inherent complexity of the immune system and the difficulty of measuring many aspects of a patient's immune state in vivo. A collaborative interdisciplinary effort involving immunologists, clinicians, mathematical modelers, and software engineers is required to achieve substantial progress.
-
-The workshop Building Immune Digital Twins aims to make immune digital twin technology a reality. Over the course of three weeks, it will bring together researchers across disciplines for activities ranging from extended active team work on specific immune digital twin projects to lectures, discussion and working groups, and brainstorming sessions for new projects and applications. Over the course of the program, participants will develop a network of collaborators and experts in all relevant areas of research. The ultimate goal of the workshop is to help create a long-term interdisciplinary immune digital twin community, willing to take up the challenges of this exciting new field.
+Digital twins, customized simulation models pioneered in industry, are beginning to gain ground in medicine and healthcare, with some major successes in cardiovascular diagnostics and insulin pump control. Personalized computational models are also assisting in applications ranging from drug development to patient-tailored treatment optimization. Advanced medical digital twins will be essential to making personalized medicine a reality. Because the immune system plays an important role in such a wide range of diseases and health conditions, from fighting pathogens to autoimmune disorders, digital twins of the immune system (IDTs) will have an especially high impact. However, their development presents major challenges, stemming from the inherent complexity of the immune system and the difficulty of measuring many aspects of a patient’s immune state in vivo. A collaborative interdisciplinary effort involving immunologists, clinicians, mathematical modelers, and software engineers is required to achieve substantial progress.
+The WG Building Immune Digital Twins aims to foster a network of collaborators and experts in all relevant areas of research. The ultimate goal of the WG is to help create a long-term interdisciplinary immune digital twin community, willing to take up the challenges of this exciting new field.
 
 ### Contact us
 
 [immunedigitaltwin@gmail.com](mailto:immunedigitaltwin@gmail.com)
 
 ### Team
+Main Chair: Dr Anna Niarakis
+Co-chairs: Dr Reinhard Laubenbacher, Dr Gary An, Dr Yaron Ilan, Dr Liesbet Geris, Dr Kristine Reiche, Dr James Glazier, Dr Jasmin Fisher
+Task co-ordinators: Dr Luiz Ladeira, Dr Sheriff Rahuman Malik
 
-Coming soon!
+Adam Knapp
+Ahmed Hemedan
+Amanda Shick
+Anna Niarakis
+Anupama Gururaj
+Åsmund Flobak
+Bernard Staumont
+Eirini Tsirvouli
+Esteban Vargas
+Falk Schreiber
+Francesco Messina
+Gary An
+Hasan Balci
+Jasmin Fisher
+Joaquin Dopazo
+Kinza Rian
+Kristin Reiche
+Leonard Harris
+Liesbet Geris
+Lorenzo Veschini
+Luis Sordo Vieira
+Luis Fonseca
+Luiz Ladeira
+Marcella Torres
+Marina Esteban-Medina
+Martina Summer-Kutmon
+Niloofar Nikaein
+Noriko F. Hiroi
+Philippe Moingeon
+Reinhard Laubenbacher
+Ryan O'Connor
+Shiny Martis B
+Soroush Safaei
+Van Du Tran
+Vincent Noël
+Yaron Ilan
 
 ### References
 
