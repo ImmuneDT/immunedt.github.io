@@ -18,6 +18,6 @@ Coming soon!
 
 ### References
 
-Immune Digital Twins Working Group. (2024). Building an international and interdisciplinary community to develop immune digital twins for complex human pathologies. Building Immune Digital Twins (BIDT), Institut Pascal, University of Paris Saclay. Zenodo. <https://doi.org/10.5281/zenodo.10783684> 
+Immune Digital Twins Working Group. (2024). **Building an international and interdisciplinary community to develop immune digital twins for complex human pathologies.** Building Immune Digital Twins (BIDT), Institut Pascal, University of Paris Saclay. *Zenodo*. <https://doi.org/10.5281/zenodo.10783684> 
 
 Laubenbacher, R., Niarakis, A., Helikar, T., An, G., Shapiro, B., Malik-Sheriff, R. S., Sego, T. J., Knapp, A., Macklin, P., & Glazier, J. A. (2022). **Building digital twins of the human immune system: Toward a roadmap.** *Npj Digital Medicine*, *5*(1), 64. <https://doi.org/10.1038/s41746-022-00610-z>
