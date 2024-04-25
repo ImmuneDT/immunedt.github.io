@@ -5,10 +5,10 @@ permalink: /team/
 ---
 
 ### Team
-Main chair: Dr Anna Niarakis
-Co-chairs: Dr Reinhard Laubenbacher, Dr Gary An, Dr Yaron Ilan, Dr Liesbet Geris, Dr Kristine Reiche, Dr James Glazier, Dr Jasmin Fisher
-Task co-ordinators: Dr Luiz Ladeira, Dr Sheriff Rahuman Malik 
-Team members: 
+**Main chair:** Dr Anna Niarakis
+**Co-chairs:** Dr Reinhard Laubenbacher, Dr Gary An, Dr Yaron Ilan, Dr Liesbet Geris, Dr Kristine Reiche, Dr James Glazier, Dr Jasmin Fisher
+**Task co-ordinators:** Dr Luiz Ladeira, Dr Sheriff Rahuman Malik 
+- **Team members:** 
 - Adam Knapp
 - Ahmed Hemedan
 - Amanda Shick
