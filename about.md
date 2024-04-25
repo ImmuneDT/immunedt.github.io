@@ -12,10 +12,10 @@ The WG Building Immune Digital Twins aims to foster a network of collaborators a
 [immunedigitaltwin@gmail.com](mailto:immunedigitaltwin@gmail.com)
 
 ### Team
-Main chair: Dr Anna Niarakis
-Co-chairs: Dr Reinhard Laubenbacher, Dr Gary An, Dr Yaron Ilan, Dr Liesbet Geris, Dr Kristine Reiche, Dr James Glazier, Dr Jasmin Fisher
-Task co-ordinators: Dr Luiz Ladeira, Dr Sheriff Rahuman Malik
-
+Main chair: Dr Anna Niarakis/
+Co-chairs: Dr Reinhard Laubenbacher, Dr Gary An, Dr Yaron Ilan, Dr Liesbet Geris, Dr Kristine Reiche, Dr James Glazier, Dr Jasmin Fisher/
+Task co-ordinators: Dr Luiz Ladeira, Dr Sheriff Rahuman Malik/ 
+Team members: 
 Adam Knapp
 Ahmed Hemedan
 Amanda Shick
