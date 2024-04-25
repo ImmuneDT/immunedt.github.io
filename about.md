@@ -16,6 +16,10 @@ The workshop Building Immune Digital Twins aims to make immune digital twin tech
 
 Coming soon!
 
+### Models
+
+Coming soon!
+
 ### References
 
 Immune Digital Twins Working Group. (2024). **Building an international and interdisciplinary community to develop immune digital twins for complex human pathologies.** Building Immune Digital Twins (BIDT), Institut Pascal, University of Paris Saclay. *Zenodo*. <https://doi.org/10.5281/zenodo.10783684> 
