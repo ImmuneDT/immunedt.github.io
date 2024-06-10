@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: IDT mini symposium
 permalink: /minisymp2024/
 ---
