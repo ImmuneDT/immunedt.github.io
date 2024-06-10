@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IDT mini symposium
+permalink: /minisymp2024/
 ---
 
 We are working hard to make this page available with all the relevant information about this exciting project! Stay tuned and don't miss our news!
