@@ -4,7 +4,7 @@ title: Building Immune Digital Twins mini-symposium 2024
 permalink: /minisymp2024/
 ---
 
-Building Immune Digital Twins mini-symposium
+Building Immune Digital Twins mini-symposium 2024
 
 *15th of July 2024 - 9am - 12am*
 
