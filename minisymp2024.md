@@ -96,9 +96,9 @@ Remote participation is also possible. Communication will be done using the chat
 ## Organisers
 
 <a href="mailto:anna.niarakis@gmail.com">Anna Niarakis</a>  
-<b>Luiz Ladeira</b>
-<b>Rahuman Sheriff</b>
-<b>Gary An</b>
-<b>Liesbet Geris</b>
-<b>Reinhard Laubenbacher</b>
+<a>Luiz Ladeira</a>
+<a>Rahuman Sheriff</a>
+<a>Gary An</a>
+<a>Liesbet Geris</a>
+<a>Reinhard Laubenbacher</a>
 
