@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building Immune Digital Twins mini-symposium 2024
-permalink: /events/
+permalink: /minisymp2024/
 ---
 
 Building Immune Digital Twins mini-symposium
