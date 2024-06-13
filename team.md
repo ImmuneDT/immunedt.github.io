@@ -44,4 +44,4 @@ permalink: /team/
 - Soroush Safaei
 - Van Du Tran
 - Vincent Noël
-Yaron Ilan
+- Yaron Ilan
