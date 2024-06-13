@@ -92,7 +92,7 @@ Remote participation is also possible. Communication will be done using the chat
 
 ## Organisers
 
-<a href="mailto:anna.niarakis@gmail.com">Anna Niarakis</a><br>  
+<a href="mailto:anna.niarakis@gmail.com">Anna Niarakis</a>  
 Luiz Ladeira<br>
 Rahuman Sheriff<br>
 Gary An<br>
