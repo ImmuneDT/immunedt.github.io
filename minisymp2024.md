@@ -81,13 +81,10 @@ The event is free of charge, but registration is mandatory. Please register [her
 
 ## Location
 
-KIT Royal Tropical Institute
-
-Mauritskade 64
-
-1092 AD Amsterdam
-
-The Netherlands 
+- KIT Royal Tropical Institute
+- Mauritskade 64
+- 1092 AD Amsterdam
+- The Netherlands 
 
 ## Remote participation
 
@@ -96,9 +93,9 @@ Remote participation is also possible. Communication will be done using the chat
 ## Organisers
 
 <a href="mailto:anna.niarakis@gmail.com">Anna Niarakis</a>  
-<a>Luiz Ladeira</a>
-<a>Rahuman Sheriff</a>
-<a>Gary An</a>
-<a>Liesbet Geris</a>
-<a>Reinhard Laubenbacher</a>
+- Luiz Ladeira
+- Rahuman Sheriff
+- Gary An
+- Liesbet Geris
+- Reinhard Laubenbacher
 
