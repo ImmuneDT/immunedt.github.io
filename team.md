@@ -28,48 +28,48 @@ permalink: /team/
 <table class="tg"><thead>
   <tr>
     <th class="tg-21ns"></th>
-    <th class="tg-7t95"></th>
-    <th class="tg-7t95">Main Chair</th>
-    <th class="tg-21ns"></th>
+    <th class="tg-7t95" colspan="2">Main Chair</th>
     <th class="tg-21ns"></th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-7t96"><img src='/images/Anna-Niarakis.png' width="128" height="128"></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
     <td class="tg-21ns"></td>
-    <td class="tg-21ns"></td>
-    <td class="tg-21ns">Dr Anna Niarakis</td>
-    <td class="tg-21ns"></td>
+    <td class="tg-21ns" colspan="2">Dr Anna Niarakis</td>
     <td class="tg-21ns"></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-8zks">University of Toulouse III <br>- Paul Sabatier</td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier</td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
     <td class="tg-21ns"></td>
-    <td class="tg-7t95"></td>
-    <td class="tg-7t95"><span style="font-weight:bold">Co-chairs</span></td>
-    <td class="tg-21ns"></td>
+    <td class="tg-7t95" colspan="2"><span style="font-weight:bold">Co-chairs</span></td>
     <td class="tg-21ns"></td>
   </tr>
   <tr>
-    <td class="tg-9tkx" colspan="2">Dr Reinhard Laubenbacher</td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Gary An</span></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
+    <td class="tg-zv4m"></td>
+  </tr>
+  <tr>
+    <td class="tg-9tkx">Dr Reinhard Laubenbacher</td>
+    <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Dr Gary An</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Yaron Ilan</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Liesbet Geris</span></td>
   </tr>
   <tr>
-    <td class="tg-21ns"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-8zks" colspan="2">
+Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont </td>
+    <td class="tg-zv4m"></td>
+  </tr>
+  <tr>
+   <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Liesbet Geris</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Kristine Reiche</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr James Glazier</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Dr Jasmin Fisher</span></td>
@@ -77,9 +77,7 @@ permalink: /team/
   </tr>
   <tr>
     <td class="tg-21ns"></td>
-    <td class="tg-7t95"></td>
-    <td class="tg-7t95"><span style="font-weight:700;font-style:normal">Team Members</span></td>
-    <td class="tg-21ns"></td>
+    <td class="tg-7t95" colspan="2">Team Members</td>
     <td class="tg-21ns"></td>
   </tr>
   <tr>
@@ -87,24 +85,26 @@ permalink: /team/
     <td class="tg-21ns">Ahmed Hemedan</td>
     <td class="tg-21ns">Amanda Shick</td>
     <td class="tg-21ns">Anna Niarakis</td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Anupama Gururaj</span></td>
   </tr>
   <tr>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Åsmund Flobak</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Bernard Staumont</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Eirini Tsirvouli</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Esteban Vargas</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Falk Schreiber</span></td>
+    <td class="tg-21ns">Anupama Gururaj</td>
+    <td class="tg-21ns">Åsmund Flobak</td>
+    <td class="tg-21ns">Bernard Staumont</td>
+    <td class="tg-21ns">Eirini Tsirvouli</td>
   </tr>
   <tr>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Francesco Messina</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Gary An</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Hasan Balci</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Jasmin Fisher</span></td>
-    <td class="tg-21ns"><span style="font-weight:inherit;font-style:inherit">Joaquin Dopazo</span></td>
+    <td class="tg-21ns">Esteban Vargas</td>
+    <td class="tg-21ns">Falk Schreiber</td>
+    <td class="tg-21ns">Francesco Messina</td>
+    <td class="tg-21ns">Gary An</td>
   </tr>
   <tr>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Kinza Rian</span></td>
+    <td class="tg-21ns">Hasan Balci</td>
+    <td class="tg-21ns">Jasmin Fisher</td>
+    <td class="tg-21ns">Joaquin Dopazo</td>
+    <td class="tg-b420">Kinza Rian</td>
+  </tr>
+  <tr>
     <td class="tg-b420">Kristin Reiche</td>
     <td class="tg-b420">Leonard Harris</td>
     <td class="tg-b420">Liesbet Geris</td>
@@ -115,27 +115,23 @@ permalink: /team/
     <td class="tg-b420">Luis Fonseca</td>
     <td class="tg-b420">Luiz Ladeira</td>
     <td class="tg-b420">Marcella Torres</td>
+  </tr>
+  <tr>
     <td class="tg-b420">Marina Esteban-Medina</td>
+    <td class="tg-b420">Martina Summer-Kutmon</td>
+    <td class="tg-b420">Niloofar Nikaein</td>
+    <td class="tg-b420">Noriko F. Hiroi</td>
   </tr>
   <tr>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Martina Summer-Kutmon</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Niloofar Nikaein</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Noriko F. Hiroi</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Philippe Moingeon</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Reinhard Laubenbacher</span></td>
+    <td class="tg-b420">Philippe Moingeon</td>
+    <td class="tg-b420">Reinhard Laubenbacher</td>
+    <td class="tg-b420">Ryan O’Connor</td>
+    <td class="tg-b420">Shiny Martis B</td>
   </tr>
   <tr>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Ryan O’Connor</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Shiny Martis B</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Soroush Safaei</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Van Du Tran</span></td>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Vincent Noël</span></td>
-  </tr>
-  <tr>
-    <td class="tg-b420"><span style="font-weight:inherit;font-style:inherit">Yaron Ilan</span></td>
-    <td class="tg-b420"></td>
-    <td class="tg-b420"></td>
-    <td class="tg-b420"></td>
-    <td class="tg-b420"></td>
+    <td class="tg-b420">Soroush Safaei</td>
+    <td class="tg-b420">Van Du Tran</td>
+    <td class="tg-b420">Vincent Noël</td>
+    <td class="tg-b420">Yaron Ilan</td>
   </tr>
 </tbody></table>
