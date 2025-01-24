@@ -34,7 +34,7 @@ permalink: /team/
 <tbody>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='./images/photos/Anna-Niarakis.png' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ permalink: /team/
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-7t96" colspan="2"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='./images/photos/Gary-An.jpg' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
@@ -134,4 +134,131 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
     <td class="tg-b420">Vincent Noël</td>
     <td class="tg-b420">Yaron Ilan</td>
   </tr>
+  <tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Hasan-Balci.jpg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Michael-Blinov.jpg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Laurence-Calzone.png' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Sandra-Ferreira.png' width="128" height="128">
+  </td>
+</tr>
+<tr>
+  <td class="tg-9tkx" style="text-align: center;">Dr. Hasan Balci, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Michael Blinov, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Laurence Calzone, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Sandra Ferreira, Ph.D.</td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    Computational Biology Branch,<br>National Library of Medicine, NIH,<br>Bethesda, Maryland, USA
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Center for Cell Analysis and Modeling,<br>University of Connecticut School of Medicine, USA
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Institut Curie, Inserm U900,<br>Mines ParisTech, PSL,<br>Paris, France
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    University of Beira Interior,<br>Portugal
+  </td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Luis-Fonseca.JPG' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/IDT-member.png' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Esteban-Hernandez-Vargas.jpg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Matthias-Koenig.png' width="128" height="128">
+  </td>
+</tr>
+<tr>
+  <td class="tg-9tkx" style="text-align: center;">Dr. Luis Fonseca, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Alyssa Foote, MDS</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Esteban Hernandez Vargas, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Matthias König, Ph.D.</td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    Laboratory for Systems Medicine,<br>Department of Medicine,<br>University of Florida,<br>Gainesville, FL, USA
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Health Data Research Associate,<br>World Data System,<br>Canada
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    University of Idaho,<br>USA
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br>Systems Medicine of the Liver,<br>Germany
+  </td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Alexander-Kulesza.jpg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Luiz-Ladeira.jpg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/IDT-member.png' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Malvina-Marku.jpg' width="128" height="128">
+  </td>
+</tr>
+<tr>
+  <td class="tg-9tkx" style="text-align: center;">Dr. Alexander Kulesza, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Luiz Ladeira, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Malik Sheriff, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Malvina Marku, Ph.D.</td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    ESQlabs GmbH,<br>University Namur,<br>Belgium
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège,<br>Belgium
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    BioModels,<br>European Bioinformatics Institute, EMBL-EBI,<br>UK
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Université de Toulouse,<br>Inserm, CNRS,<br>Université Toulouse III-Paul Sabatier,<br>France
+  </td>
+</tr>
+ <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/Shiny-MartisB.jpeg' width="128" height="128">
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    <img src='./images/photos/IDT-member.png' width="128" height="128">
+  </td>
+  <td class="tg-zv4m"></td>
+  <td class="tg-zv4m"></td>
+</tr>
+<tr>
+  <td class="tg-9tkx" style="text-align: center;">Dr. Shiny Martis, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Arnau Montagud, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;"></td>
+  <td class="tg-21ns" style="text-align: center;"></td>
+</tr>
+<tr>
+  <td class="tg-zv4m" style="text-align: center;">
+    Voisin Consulting Life Sciences,<br>France
+  </td>
+  <td class="tg-zv4m" style="text-align: center;">
+    Institute of Interactive Systems Biology (I2SysBio),<br>CSIC-UV, Spain
+  </td>
+  <td class="tg-zv4m" style="text-align: center;"></td>
+  <td class="tg-zv4m" style="text-align: center;"></td>
 </tbody></table>
