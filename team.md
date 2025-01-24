@@ -220,7 +220,7 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
 <tr>
   <td class="tg-9tkx" style="text-align: center;">Dr. Alexander Kulesza, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">Dr. Luiz Ladeira, Ph.D.</td>
-  <td class="tg-21ns" style="text-align: center;">Dr. Malik Sheriff, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Dr. Sheriff Malik, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">Dr. Malvina Marku, Ph.D.</td>
 </tr>
 <tr>
