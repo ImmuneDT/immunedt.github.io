@@ -137,16 +137,16 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
   <tr>
 <tr>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Hasan-Balci.jpg' width="128" height="128">
+    <img src='/images/photos/Hasan-Balci.jpg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Michael-Blinov.jpg' width="128" height="128">
+    <img src='/images/photos/Michael-Blinov.jpg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Laurence-Calzone.png' width="128" height="128">
+    <img src='/images/photos/Laurence-Calzone.png' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Sandra-Ferreira.png' width="128" height="128">
+    <img src='/images/photos/Sandra-Ferreira.png' width="128" height="128">
   </td>
 </tr>
 <tr>
@@ -171,16 +171,16 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
 </tr>
 <tr>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Luis-Fonseca.JPG' width="128" height="128">
+    <img src='/images/photos/Luis-Fonseca.JPG' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/IDT-member.png' width="128" height="128">
+    <img src='/images/photos/IDT-member.png' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Esteban-Hernandez-Vargas.jpg' width="128" height="128">
+    <img src='/images/photos/Esteban-Hernandez-Vargas.jpg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Matthias-Koenig.png' width="128" height="128">
+    <img src='/images/photos/Matthias-Koenig.png' width="128" height="128">
   </td>
 </tr>
 <tr>
@@ -205,16 +205,16 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
 </tr>
 <tr>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Alexander-Kulesza.jpg' width="128" height="128">
+    <img src='/images/photos/Alexander-Kulesza.jpg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Luiz-Ladeira.jpg' width="128" height="128">
+    <img src='/images/photos/Luiz-Ladeira.jpg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/IDT-member.png' width="128" height="128">
+    <img src='/images/photos/IDT-member.png' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Malvina-Marku.jpg' width="128" height="128">
+    <img src='/images/photos/Malvina-Marku.jpg' width="128" height="128">
   </td>
 </tr>
 <tr>
@@ -238,10 +238,10 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
   </td>
 </tr>
  <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/Shiny-MartisB.jpeg' width="128" height="128">
+    <img src='/images/photos/Shiny-MartisB.jpeg' width="128" height="128">
   </td>
   <td class="tg-zv4m" style="text-align: center;">
-    <img src='./images/photos/IDT-member.png' width="128" height="128">
+    <img src='/images/photos/IDT-member.png' width="128" height="128">
   </td>
   <td class="tg-zv4m"></td>
   <td class="tg-zv4m"></td>
