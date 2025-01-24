@@ -34,7 +34,7 @@ permalink: /team/
 <tbody>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-7t96" colspan="2"><img src='./images/photos/Anna-Niarakis.png' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ permalink: /team/
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
-    <td class="tg-7t96" colspan="2"><img src='./images/photos/Gary-An.jpg' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
