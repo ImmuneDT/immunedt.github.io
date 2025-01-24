@@ -62,10 +62,10 @@ permalink: /team/
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
 </tr>
 <tr>
-    <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Reinhard Laubenbacher, Ph.D.</td>
-    <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Gary An, M.D.</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Yaron Ilan, M.D.</span></td>
-    <td class="tg-9tkx" style="text-align: center;">Liesbet Geris, Ph.D.</span></td>
+    <td class="tg-9tkx" style="text-align: center;">Reinhard Laubenbacher, Ph.D.</td>
+    <td class="tg-9tkx" style="text-align: center;">Gary An, M.D.</td>
+    <td class="tg-9tkx" style="text-align: center;">Yaron Ilan, M.D.</td>
+    <td class="tg-9tkx" style="text-align: center;">Liesbet Geris, Ph.D.</td>
 </tr>
 <tr>
   <td class="tg-8zks">University of Florida <br> United States </td>
@@ -75,10 +75,10 @@ permalink: /team/
 </tr>
 
 <tr>
-  <td class="tg-9tkx" style="text-align: center;">Kristine Reiche, Ph.D.</span></td>
-  <td class="tg-9tkx" style="text-align: center;">James Glazier, Ph.D.</span></td>
-  <td class="tg-9tkx" style="text-align: center;">Jasmin Fisher, Ph.D.</span></td>
-  <td class="tg-9tkx" style="text-align: center;"></span></td>
+  <td class="tg-9tkx" style="text-align: center;">Kristine Reiche, Ph.D.</td>
+  <td class="tg-9tkx" style="text-align: center;">James Glazier, Ph.D.</td>
+  <td class="tg-9tkx" style="text-align: center;">Jasmin Fisher, Ph.D.</td>
+  <td class="tg-9tkx" style="text-align: center;"></td>
 </tr>
 
 <tr>
