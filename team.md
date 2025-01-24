@@ -91,7 +91,6 @@ permalink: /team/
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
-</tr>
 
 <tr>
     <td class="tg-21ns"></td>
