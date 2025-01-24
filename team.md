@@ -26,40 +26,39 @@ permalink: /team/
 .tg .tg-b420{border-color:#ffffff;font-size:18px;text-align:center;vertical-align:top;padding-bottom:0px}
 </style>
 <table class="tg"><thead>
-  <tr>
+<tr>
     <th class="tg-21ns"></th>
     <th class="tg-7t95" colspan="2">Main Chair</th>
     <th class="tg-21ns"></th>
-  </tr></thead>
+</tr></thead>
 <tbody>
-
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-21ns"></td>
-    <td class="tg-21ns" colspan="2">Dr Anna Niarakis</td>
-    <td class="tg-21ns"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier</td>
-    <td class="tg-zv4m"></td>
-  </tr>
-
-  <tr>
-    <td class="tg-21ns"></td>
-    <td class="tg-7t95" colspan="2"><span style="font-weight:bold">Co-chairs</span></td>
-    <td class="tg-21ns"></td>
+<tr>
+  <td class="tg-zv4m"></td>
+  <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
+  <td class="tg-zv4m"></td>
+</tr>
+<tr>
+  <td class="tg-21ns"></td>
+  <td class="tg-21ns" colspan="2">Anna Niarakis, Ph.D.</td>
+  <td class="tg-21ns"></td>
+</tr>
+<tr>
+  <td class="tg-zv4m"></td>
+  <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier</td>
+  <td class="tg-zv4m"></td>
   </tr>
 
 <tr>
+  <td class="tg-21ns"></td>
+  <td class="tg-7t95" colspan="2"><span style="font-weight:bold">Co-chairs</span></td>
+  <td class="tg-21ns"></td>
+</tr>
+
+<tr>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Gary-An.jpg' width="128"height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
 </tr>
 <tr>
     <td class="tg-21ns" style="text-align: center;">Reinhard Laubenbacher, Ph.D.</td>
@@ -69,22 +68,22 @@ permalink: /team/
 </tr>
 <tr>
   <td class="tg-8zks">University of Florida <br> United States </td>
-  <td class="tg-8zks">Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont </td>
+  <td class="tg-8zks">Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont <br> United States </td>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
 
 <tr>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"> </td>
 </tr>
 <tr>
   <td class="tg-21ns" style="text-align: center;">Kristine Reiche, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">James Glazier, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">Jasmin Fisher, Ph.D.</td>
-  <td class="tg-21ns" style="text-align: center;"></td>
+  <td class="tg-21ns" style="text-align: center;"> </td>
 <tr>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
