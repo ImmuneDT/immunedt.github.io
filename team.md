@@ -53,17 +53,17 @@ permalink: /team/
     <td class="tg-21ns"></td>
   </tr>
   <tr>
-    <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
-    <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
+    <td class="tg-7t96" colspan="2"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
     <td class="tg-zv4m"></td>
   </tr>
   <tr>
-    <td class="tg-9tkx">Reinhard Laubenbacher, Ph.D.</td>
+    <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Reinhard Laubenbacher, Ph.D.</td>
     <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Gary An, M.D.</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Yaron Ilan, M.D.</span></td>
   </tr>
   <tr>
-    <td class="tg-zv4m">University of Florida <br> United States </td>
+    <td class="tg-8zks" colspan="2">University of Florida <br> United States </td>
     <td class="tg-8zks" colspan="2">
 Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont </td>
     <td class="tg-zv4m"></td>
