@@ -32,6 +32,7 @@ permalink: /team/
     <th class="tg-21ns"></th>
   </tr></thead>
 <tbody>
+
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
@@ -47,34 +48,38 @@ permalink: /team/
     <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier</td>
     <td class="tg-zv4m"></td>
   </tr>
+
   <tr>
     <td class="tg-21ns"></td>
     <td class="tg-7t95" colspan="2"><span style="font-weight:bold">Co-chairs</span></td>
     <td class="tg-21ns"></td>
   </tr>
-  <tr>
-    <td class="tg-7t96" colspan="2"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
-    <td class="tg-7t96" colspan="2"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
+
+<tr>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Reinhard-Laubenbacher.jpg'width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Gary-An.jpg' width="128"height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128"height="128"></td>
+</tr>
+<tr>
     <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Reinhard Laubenbacher, Ph.D.</td>
     <td class="tg-21ns" colspan="2"><span style="font-weight:400;font-style:normal">Gary An, M.D.</span></td>
     <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Yaron Ilan, M.D.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-8zks" colspan="2">University of Florida <br> United States </td>
-    <td class="tg-8zks" colspan="2">
-Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont </td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-   <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Liesbet Geris, Ph.D.</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Kristine Reiche, Ph.D.</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">James Glazier, Ph.D.</span></td>
-    <td class="tg-21ns"><span style="font-weight:400;font-style:normal">Jasmin Fisher, Ph.D.</span></td>
-    <td class="tg-21ns"></td>
-  </tr>
+    <td class="tg-9tkx" style="text-align: center;">Liesbet Geris, Ph.D.</span></td>
+</tr>
+<tr>
+  <td class="tg-8zks">University of Florida <br> United States </td>
+  <td class="tg-8zks">Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont </td>
+  <td class="tg-8zks"></td>
+  <td class="tg-8zks"></td>
+</tr>
+
+<tr>
+  <td class="tg-9tkx" style="text-align: center;">Kristine Reiche, Ph.D.</span></td>
+  <td class="tg-9tkx" style="text-align: center;">James Glazier, Ph.D.</span></td>
+  <td class="tg-9tkx" style="text-align: center;">Jasmin Fisher, Ph.D.</span></td>
+  <td class="tg-9tkx" style="text-align: center;"></span></td>
+</tr>
 
 <tr>
     <td class="tg-21ns"></td>
@@ -133,7 +138,7 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
   <td class="tg-b420">Leonard Harris</td>
 </tr>
 <tr>
-<td class="tg-zv4m" style="text-align: center;">Laboratory for Systems Medicine,<br>Department of Medicine,<br>University of Florida,<br>Gainesville, FL, USA</td>
+  <td class="tg-zv4m" style="text-align: center;">Laboratory for Systems Medicine,<br>Department of Medicine,<br>University of Florida,<br>Gainesville, FL, USA</td>
   <td class="tg-zv4m" style="text-align: center;">Health Data Research Associate,<br>World Data System,<br>Canada
   </td>
   <td class="tg-zv4m" style="text-align: center;"></td>
