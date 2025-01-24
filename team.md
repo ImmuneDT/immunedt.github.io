@@ -263,10 +263,10 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
   <td class="tg-zv4m" style="text-align: center;"></td>
   
   <tr>
-  <td class="tg-8zks"><img src='/images/photos/Pedro-Monteiro.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Pedro-Monteiro.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
   </tr>
   <tr>
     <td class="tg-b420">Pedro T. Monteiro, Ph.D</td>
@@ -281,10 +281,10 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
     <td class="tg-8zks">Professor<br> University of Montpellier</td>
   </tr>
   <tr>
-  <td class="tg-8zks"><img src='/images/photos/Kinza-Rian.jpeg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/Maria-Rodriguez-Martinez.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/Safaei-Soroush.png' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Kinza-Rian.jpeg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Maria-Rodriguez-Martinez.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Safaei-Soroush.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
   </tr>
   <tr>
     <td class="tg-b420">Kinza Rian</td>
@@ -299,10 +299,10 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
     <td class="tg-8zks">Postdoctoral researcher<br>University of Konstanz<br>Centre for the Advanced Study of Collective Behaviour <br> Germany</td>
   </tr>
   <tr>
-  <td class="tg-8zks"><img src='/images/photos/Nikola-Schlosserova.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/TJ-Sego.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/Yashwanth-Subbannayya.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/Martina-Summer-Kutmon.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Nikola-Schlosserova.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/TJ-Sego.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Yashwanth-Subbannayya.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Martina-Summer-Kutmon.jpg' width="128" height="128"></td>
   </tr>
   <tr>
     <td class="tg-b420">Nikola Schlosserová, Ing.</td>
@@ -317,10 +317,10 @@ Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Ch
     <td class="tg-8zks">Maastricht Centre for Systems Biology (MaCSBio), <br> Maastricht University<br> Netherlands </td>
   </tr>
   <tr>
-  <td class="tg-8zks"><img src='/images/photos/Eirini-Tsirvouli.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"><img src='/images/photos/Lorenzo-Veschini.jpg' width="128" height="128"></td>
-  <td class="tg-8zks"></td>
-  <td class="tg-8zks"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Eirini-Tsirvouli.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Lorenzo-Veschini.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"></td>
+  <td class="tg-zv4m" style="text-align: center;"></td>
   </tr>
   <tr>
     <td class="tg-21ns">Eirini Tsirvouli, Ph.D</td>
