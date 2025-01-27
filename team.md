@@ -32,6 +32,7 @@ permalink: /team/
     <th class="tg-21ns"></th>
 </tr></thead>
 <tbody>
+
 <tr>
   <td class="tg-zv4m"></td>
   <td class="tg-7t96" colspan="2"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
@@ -55,38 +56,38 @@ permalink: /team/
 </tr>
 
 <tr>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Gary-An.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
 </tr>
 <tr>
-    <td class="tg-21ns" style="text-align: center;">Reinhard Laubenbacher, Ph.D.</td>
-    <td class="tg-21ns" style="text-align: center;">Gary An, M.D.</td>
-    <td class="tg-21ns" style="text-align: center;">Yaron Ilan, M.D.</td>
-    <td class="tg-21ns" style="text-align: center;">Liesbet Geris, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Gary An, M.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Jasmin Fisher, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Liesbet Geris, Ph.D.</td>
+  <td class="tg-21ns" style="text-align: center;">James Glazier, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-8zks">University of Florida <br> United States </td>
   <td class="tg-8zks">Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont <br> United States </td>
+  <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
 
 <tr>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Reinhard-Laubenbacher.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"> </td>
+  <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
 <tr>
+  <td class="tg-21ns" style="text-align: center;">Yaron Ilan, M.D.</td>
+  <td class="tg-21ns" style="text-align: center;">Reinhard Laubenbacher, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">Kristine Reiche, Ph.D.</td>
-  <td class="tg-21ns" style="text-align: center;">James Glazier, Ph.D.</td>
-  <td class="tg-21ns" style="text-align: center;">Jasmin Fisher, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;"> </td>
 <tr>
   <td class="tg-8zks"></td>
-  <td class="tg-8zks"></td>
+  <td class="tg-8zks">University of Florida <br> United States </td>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
@@ -190,7 +191,7 @@ permalink: /team/
   <td class="tg-zv4m" style="text-align: center;">Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br>Systems Medicine of the Liver,<br>Germany</td>
   <td class="tg-zv4m" style="text-align: center;">ESQlabs GmbH,<br>University Namur,<br>Belgium</td>
   <td class="tg-zv4m" style="text-align: center;">Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège,<br>Belgium</td>
-  <td class="tg-zv4m" style="text-align: center;">BioModels,<br>European Bioinformatics Institute, EMBL-EBI,<br>UK</td>
+  <td class="tg-zv4m" style="text-align: center;">BioModels,<br>European Bioinformatics Institute,<br>EMBL-EBI<br>UK</td>
 </tr> 
 
 <tr>
@@ -209,7 +210,7 @@ permalink: /team/
   <td class="tg-zv4m" style="text-align: center;">Université de Toulouse,<br>Inserm, CNRS,<br>Université Toulouse III-Paul Sabatier,<br>France</td>
   <td class="tg-zv4m" style="text-align: center;">Voisin Consulting Life Sciences,<br>France</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
-  <td class="tg-zv4m" style="text-align: center;">Institute of Interactive Systems Biology (I2SysBio),<br>CSIC-UV, Spain</td>
+  <td class="tg-zv4m" style="text-align: center;">Institute of Interactive<br>Systems Biology (I2SysBio),<br>CSIC-UV<br>Spain</td>
 </tr>
 
 <tr>
@@ -247,7 +248,7 @@ permalink: /team/
   <td class="tg-8zks">Université Paris Cité, <br> INSERM, U976 HIPI <br> France </td>
   <td class="tg-8zks">Université Paris Saclay <br> France</td>
   <td class="tg-8zks">Professor<br> University of Montpellier</td>
-  <td class="tg-8zks">Platform for Computational Medicine, Andalusian Public Foundation Progress and Health-FPS <br> Spain </td>
+  <td class="tg-8zks">Platform for Computational Medicine,<br> Andalusian Public Foundation Progress<br> and Health-FPS<br>Spain </td>
 </tr>
 
 <tr>
@@ -265,8 +266,8 @@ permalink: /team/
 <tr>
   <td class="tg-8zks">Department of Biomedical Informatics and Data Science, <br> Yale School of Medicine <br> United States</td>
   <td class="tg-8zks">Senior Research Fellow <br>  Ghent University <br>Senior Principal Scientist, Sanofi<br> Belgium </td>
-  <td class="tg-8zks">Postdoctoral researcher<br>University of Konstanz<br>Centre for the Advanced Study o  Collective Behaviour <br> Germany</td>
-  <td class="tg-8zks">Department of Agricultural, Forestry, Food and Environmental Sciences, <br> Università degli Studi della Basilicata <br>Department of Chemistry and Biochemistry, Faculty of AgriSciences, Mendel University in Brno <br> Italy & Czech Republic </td>
+  <td class="tg-8zks">University of Konstanz<br>Centre for the Advanced Study of  Collective Behaviour <br> Germany</td>
+  <td class="tg-8zks">Department of Agricultural, Forestry, Food <br>and Environmental Sciences, <br> Università degli Studi della Basilicata <br>Department of Chemistry and Biochemistry,<br>Faculty of AgriSciences<br>Mendel University in Brno<br> Italy & Czech Republic </td>
 </tr>
 
 <tr>
@@ -312,7 +313,7 @@ permalink: /team/
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Lorenzo-Veschini.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"></td>
   <td class="tg-zv4m" style="text-align: center;"></td>
-  </tr>
+</tr>
 <tr>
   <td class="tg-21ns">Eirini Tsirvouli, Ph.D.</td>
   <td class="tg-b420">Lorenzo Veschini, Ph.D.</td>
