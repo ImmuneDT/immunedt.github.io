@@ -326,4 +326,4 @@ permalink: /team/
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
-</tbody></table>
+</table></tbody>
