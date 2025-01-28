@@ -85,6 +85,7 @@ permalink: /team/
   <td class="tg-21ns" style="text-align: center;">Reinhard Laubenbacher, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;">Kristine Reiche, Ph.D.</td>
   <td class="tg-21ns" style="text-align: center;"> </td>
+</tr>
 <tr>
   <td class="tg-8zks"></td>
   <td class="tg-8zks">University of Florida <br> United States </td>
@@ -326,4 +327,4 @@ permalink: /team/
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
-</table></tbody>
+</tbody></table>
