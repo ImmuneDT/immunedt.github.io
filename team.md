@@ -45,7 +45,7 @@ permalink: /team/
 </tr>
 <tr>
   <td class="tg-zv4m"></td>
-  <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier</td>
+  <td class="tg-8zks" colspan="2">Full Professor of Computational Systems Biology,<br>University of Toulouse III - Paul Sabatier<br>France</td>
   <td class="tg-zv4m"></td>
   </tr>
 
