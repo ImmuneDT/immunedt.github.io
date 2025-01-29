@@ -111,9 +111,9 @@ permalink: /team/
   <td class="tg-21ns">Joaquin Dopazo</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" style="text-align: center;">Computational Biology Branch,<br>National Library of Medicine, NIH,<br>Bethesda, Maryland, USA</td>
-  <td class="tg-zv4m" style="text-align: center;">Center for Cell Analysis and Modeling,<br>University of Connecticut School of Medicine, USA</td>
-  <td class="tg-zv4m" style="text-align: center;">Institut Curie, Inserm U900,<br>Mines ParisTech, PSL,<br>Paris, France</td>
+  <td class="tg-zv4m" style="text-align: center;">Computational Biology Branch,<br>National Library of Medicine, NIH<br>United States</td>
+  <td class="tg-zv4m" style="text-align: center;">Center for Cell Analysis and Modeling,<br>University of Connecticut School of Medicine<br> United States</td>
+  <td class="tg-zv4m" style="text-align: center;">Institut Curie, Inserm U900,<br>Mines ParisTech, PSL<br>France</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
 
@@ -132,7 +132,7 @@ permalink: /team/
 <tr>
   <td class="tg-zv4m" style="text-align: center;"></td>
   <td class="tg-zv4m" style="text-align: center;"></td>
-  <td class="tg-zv4m" style="text-align: center;">University of Beira Interior,<br>Portugal</td>
+  <td class="tg-zv4m" style="text-align: center;">University of Beira Interior<br>Portugal</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
 
@@ -149,8 +149,8 @@ permalink: /team/
   <td class="tg-b420">Leonard Harris</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" style="text-align: center;">Laboratory for Systems Medicine,<br>Department of Medicine,<br>University of Florida,<br>Gainesville, FL, USA</td>
-  <td class="tg-zv4m" style="text-align: center;">Health Data Research Associate,<br>World Data System,<br>Canada
+  <td class="tg-zv4m" style="text-align: center;">Laboratory for Systems Medicine,<br>Department of Medicine,<br>University of Florida<br>United States</td>
+  <td class="tg-zv4m" style="text-align: center;">Health Data Research Associate,<br>World Data System<br>Canada
   </td>
   <td class="tg-zv4m" style="text-align: center;"></td>
   <td class="tg-zv4m" style="text-align: center;"></td>
@@ -170,7 +170,7 @@ permalink: /team/
 </tr>
 <tr>
   <td class="tg-zv4m" style="text-align: center;"></td>
-  <td class="tg-zv4m" style="text-align: center;">University of Idaho,<br>USA</td>
+  <td class="tg-zv4m" style="text-align: center;">University of Idaho<br>United States</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
@@ -188,10 +188,10 @@ permalink: /team/
   <td class="tg-21ns" style="text-align: center;">Sheriff Malik, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" style="text-align: center;">Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br>Systems Medicine of the Liver,<br>Germany</td>
-  <td class="tg-zv4m" style="text-align: center;">ESQlabs GmbH,<br>University Namur,<br>Belgium</td>
-  <td class="tg-zv4m" style="text-align: center;">Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège,<br>Belgium</td>
-  <td class="tg-zv4m" style="text-align: center;">BioModels,<br>European Bioinformatics Institute,<br>EMBL-EBI<br>UK</td>
+  <td class="tg-zv4m" style="text-align: center;">Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br>Systems Medicine of the Liver<br>Germany</td>
+  <td class="tg-zv4m" style="text-align: center;">ESQlabs GmbH,<br>University Namur<br>Belgium</td>
+  <td class="tg-zv4m" style="text-align: center;">Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège<br>Belgium</td>
+  <td class="tg-zv4m" style="text-align: center;">BioModels,<br>European Bioinformatics Institute,<br>EMBL-EBI<br>United Kingdom</td>
 </tr> 
 
 <tr>
@@ -207,8 +207,8 @@ permalink: /team/
   <td class="tg-21ns" style="text-align: center;">Arnau Montagud, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" style="text-align: center;">Université de Toulouse,<br>Inserm, CNRS,<br>Université Toulouse III-Paul Sabatier,<br>France</td>
-  <td class="tg-zv4m" style="text-align: center;">Voisin Consulting Life Sciences,<br>France</td>
+  <td class="tg-zv4m" style="text-align: center;">Université de Toulouse,<br>Inserm, CNRS,<br>Université Toulouse III-Paul Sabatier<br>France</td>
+  <td class="tg-zv4m" style="text-align: center;">Voisin Consulting Life Sciences<br>France</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
   <td class="tg-zv4m" style="text-align: center;">Institute of Interactive<br>Systems Biology (I2SysBio),<br>CSIC-UV<br>Spain</td>
 </tr>
@@ -245,9 +245,9 @@ permalink: /team/
   <td class="tg-b420">Kinza Rian</td>
 </tr>
 <tr>
-  <td class="tg-8zks">Université Paris Cité, <br> INSERM, U976 HIPI <br> France </td>
-  <td class="tg-8zks">Université Paris Saclay <br> France</td>
-  <td class="tg-8zks">Professor<br> University of Montpellier</td>
+  <td class="tg-8zks">Université Paris Cité,<br> INSERM, U976 HIPI <br> France </td>
+  <td class="tg-8zks">Université Paris Saclay <br>France</td>
+  <td class="tg-8zks">University of Montpellier<br>France</td>
   <td class="tg-8zks">Platform for Computational Medicine,<br> Andalusian Public Foundation Progress<br> and Health-FPS<br>Spain </td>
 </tr>
 
@@ -265,7 +265,7 @@ permalink: /team/
 </tr>
 <tr>
   <td class="tg-8zks">Department of Biomedical Informatics and Data Science, <br> Yale School of Medicine <br> United States</td>
-  <td class="tg-8zks">Senior Research Fellow <br>  Ghent University <br>Senior Principal Scientist, Sanofi<br> Belgium </td>
+  <td class="tg-8zks">Ghent University<br>Sanofi<br> Belgium </td>
   <td class="tg-8zks">University of Konstanz<br>Centre for the Advanced Study of  Collective Behaviour <br> Germany</td>
   <td class="tg-8zks">Department of Agricultural, Forestry, Food <br>and Environmental Sciences, <br> Università degli Studi della Basilicata <br>Department of Chemistry and Biochemistry,<br>Faculty of AgriSciences<br>Mendel University in Brno<br> Italy & Czech Republic </td>
 </tr>
@@ -322,8 +322,8 @@ permalink: /team/
 </tr>
 <tr>
   <td class="tg-8zks">Norwegian University of Science and Technology <br> Norway</td>
-  <td class="tg-8zks">FoDOCS, King's College London <br> Biocomplexity Institute, Indana University atBloomington <br> United Kingdom</td>
+  <td class="tg-8zks">FoDOCS, King's College London <br> Biocomplexity Institute, Indana University at Bloomington <br> United Kingdom</td>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
 </tr>
-</table></tbody>
+</tbody></table>
