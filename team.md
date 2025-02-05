@@ -107,7 +107,7 @@ permalink: /team/
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
   <td class="tg-8zks"></td>
-</tr
+</tr>
 
 <tr>
     <td class="tg-7t95" colspan="3">Task 2: Metadata guidelines</td>
@@ -132,7 +132,7 @@ permalink: /team/
   <td class="tg-8zks">Norwegian University of Science and Technology <br> Norway</td>
   <td class="tg-8zks">INESC-ID/IST, <br> Universidade de Lisboa <br> Portugal</td >
   <td class="tg-8zks">FoDOCS, King's College London <br> Biocomplexity Institute, Indana University at Bloomington <br> United Kingdom</td>
-</tr
+</tr>
 
 <tr>
     <td class="tg-21ns"></td>
@@ -349,4 +349,3 @@ permalink: /team/
   <td class="tg-8zks">Maastricht Centre for Systems Biology (MaCSBio), <br> Maastricht University<br> Netherlands </td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
-</tbody></table>
