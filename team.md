@@ -114,7 +114,7 @@ permalink: /team/
 <tr>
   <td class="tg-zv4m" style="text-align: center;">Computational Biology Branch,<br>National Library of Medicine, NIH<br>United States</td>
   <td class="tg-zv4m" style="text-align: center;">Center for Cell Analysis and Modeling,<br>University of Connecticut School of Medicine<br> United States</td>
-  <td class="tg-zv4m" style="text-align: center;">Institut Curie, Inserm U900,<br>Mines ParisTech, PSL<br>France</td>
+  <td class="tg-zv4m" style="text-align: center;">Institut Curie, Inserm U1331,<br>Mines ParisTech, PSL<br>France</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
 
@@ -217,7 +217,7 @@ permalink: /team/
 <tr>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Pedro-Monteiro.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/Vincent-Noel.jpg' width="128" height="128"></td>
   <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ permalink: /team/
 <tr>
   <td class="tg-8zks">INESC-ID/IST, <br> Universidade de Lisboa <br> Portugal</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
-  <td class="tg-zv4m" style="text-align: center;"></td>
+  <td class="tg-zv4m" style="text-align: center;">Institut Curie, Inserm U1331,<br>Mines ParisTech, PSL<br>France</td>
   <td class="tg-zv4m" style="text-align: center;"></td>
 </tr>
 
