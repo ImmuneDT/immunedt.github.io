@@ -94,14 +94,10 @@ permalink: /team/
 </tr>
 
 <tr>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
-  <td class="tg-zv4m" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan = "3" style="text-align: center;"><img src='/images/photos/Anna-Niarakis.png' width="128" height="128"></td>
 </tr>
 <tr>
-  <td class="tg-21ns" ></td>
-  <td class="tg-b420" ></td>
-  <td class="tg-b420" ></td>
+  <td class="tg-21ns" colspan = "3" > Anna Niarakis, Ph.D.</td>
 </tr>
 <tr>
   <td class="tg-8zks"></td>
